@@ -35,5 +35,5 @@ The fs module provides a lot of very useful functionality to access and interact
    `git clone git@github.com:ttdlabaj/Google-api.git`
 4. Navigate to the google-books-api folder.
 5. Enter `npm install` in the terminal to install all dependencies.
-6. 
+6. Enter `node app.js` to start your search.
 
